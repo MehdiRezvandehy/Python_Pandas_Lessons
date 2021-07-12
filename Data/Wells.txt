@@ -1,0 +1,12 @@
+Information of some energy wells in Alberta						
+Easting(km)	  Northing(km)	  Depth(m)     Spudded Month      BH Temp(degC)	  Geo. Formation	OIL Prod(m3)
+310	             832	   1518	           467	              41	    Dgrn_wash	          46581
+570                  204	   883	           303	              30	    Kglauc_ss	           697
+588	             511	   821	           33	              NA	    Kdina                  220
+522	             167	   515.1	   523	              220	    Kbelly_rv	            0
+608	             132	   369	           253	              NA	    Kmilk_rv	            0
+521	             167           1080	           191	              34	    Ksunburst	           8479
+503	             370	   1152	           298	              35	    Kellrslie	            14
+573	             896	   990	           486	              30	    NA                      NA
+248	             461	   2350	           183	              NA	    NA	                    NA
+610	             141	   473             493	              20	    Kmilk_rv                0
